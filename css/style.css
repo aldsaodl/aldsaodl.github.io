@@ -1,0 +1,53 @@
+/* Load mplus */
+@font-face{ 
+  font-family: 'mplus-1mn-regular';
+  src: url('http://mplus-webfonts.sourceforge.jp/mplus-1mn-regular.eot');
+  src: url('http://mplus-webfonts.sourceforge.jp/mplus-1mn-regular.eot?#iefix') format('embedded-opentype'),
+       url('http://mplus-webfonts.sourceforge.jp/mplus-1mn-regular.woff') format('woff'),
+       url('http://mplus-webfonts.sourceforge.jp/mplus-1mn-regular.ttf') format('truetype');
+}
+
+.sans-serif, /* { */
+/*   font-family: "Inter", sans-serif; */
+/* } */
+.serif {
+  font-family: 'EB Garamond', serif; 
+  font-size: 20px;
+}
+
+code, .code {
+  font-family: "mplus-1mn-regular", monospace;
+}
+
+blockquote > p {
+  color: #3e3e3e;
+}
+
+s { text-decoration:line-through; }
+
+hr {
+  border: none;                        /* Remove default border. */
+  text-align: center;                  /* Centre the characters. */
+}
+
+hr::after {
+  /* content: "🌞 🌜"; */
+  /* content: "☙ ❧"; */
+  content: "❦";
+  display: block;
+  /* opacity: 0.9; */
+  line-height: 1;
+}
+
+h1 {
+  font-weight: 200 ;
+}
+
+#content > ul {
+  list-style-type: none;
+}
+
+#content > ul > li:before {
+  content: "− "; 
+}
+
