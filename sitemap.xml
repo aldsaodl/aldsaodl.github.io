@@ -8,12 +8,22 @@
   
   <url>
     <loc>https://aldsaodl.github.io/</loc>
-    <lastmod>2021-06-02T18:40:40-03:00</lastmod>
+    <lastmod>2021-06-04T16:47:32-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aldsaodl.github.io/tags/a-bela-e-a-fera/</loc>
-    <lastmod>2021-06-02T18:40:40-03:00</lastmod>
+    <loc>https://aldsaodl.github.io/categorias/a-bela-e-a-fera/</loc>
+    <lastmod>2021-06-04T16:47:32-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aldsaodl.github.io/categorias/</loc>
+    <lastmod>2021-06-04T16:47:32-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aldsaodl.github.io/categorias/rapunzel/</loc>
+    <lastmod>2021-06-04T16:47:32-03:00</lastmod>
   </url>
   
   <url>
@@ -22,7 +32,7 @@
   </url>
   
   <url>
-    <loc>https://aldsaodl.github.io/tags/pentamer%C3%A3o/</loc>
+    <loc>https://aldsaodl.github.io/series/contos-do-pentamer%C3%A3o/</loc>
     <lastmod>2021-06-02T18:40:40-03:00</lastmod>
   </url>
   
@@ -32,7 +42,7 @@
   </url>
   
   <url>
-    <loc>https://aldsaodl.github.io/tags/</loc>
+    <loc>https://aldsaodl.github.io/series/</loc>
     <lastmod>2021-06-02T18:40:40-03:00</lastmod>
   </url>
   
@@ -42,17 +52,7 @@
   </url>
   
   <url>
-    <loc>https://aldsaodl.github.io/tags/vida-real/</loc>
-    <lastmod>2021-05-31T18:18:20-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aldsaodl.github.io/contos/angiola/</loc>
-    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aldsaodl.github.io/tags/rapunzel/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -62,12 +62,7 @@
   </url>
   
   <url>
-    <loc>https://aldsaodl.github.io/tags/irm%C3%A3os-grimm/</loc>
-    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aldsaodl.github.io/tags/n%C3%B3rdicos/</loc>
+    <loc>https://aldsaodl.github.io/categorias/contos-n%C3%B3rdicos/</loc>
     <lastmod>2020-12-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,10 +73,6 @@
   
   <url>
     <loc>https://aldsaodl.github.io/contato/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aldsaodl.github.io/categories/</loc>
   </url>
   
 </urlset>
