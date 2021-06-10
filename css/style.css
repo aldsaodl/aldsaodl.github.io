@@ -59,20 +59,25 @@ h1 {
 /*   content: "− "; */
 /* } */
 
+ul#autores,
 ul#categorias {
   display: inline;
   list-style: none;
   padding: 0px;
 }
 
+ul#autores li,
 ul#categorias li {
   display: inline;
 }
 
+ul#autores li::after,
 ul#categorias li::after {
   content: ", ";
 }
 
+ul#autores li:last-child::after ,
 ul#categorias li:last-child::after {
     content: "";
 }
+
