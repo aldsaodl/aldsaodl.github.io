@@ -81,3 +81,6 @@ ul#categorias li:last-child::after {
     content: "";
 }
 
+#apresentacao {
+  background: #ccc;
+}
