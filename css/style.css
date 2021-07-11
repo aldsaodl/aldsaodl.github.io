@@ -15,6 +15,18 @@
   font-size: 20px;
 }
 
+#apresentacao {
+  background-color: #f4f4f4;
+  padding: 1rem;
+  font-size: 1rem;
+}
+
+#apresentacao:after {
+  display: block;
+  content: url('/img/sep.png');
+  text-align: center;
+}
+
 code, .code {
   font-family: "mplus-1mn-regular", monospace;
 }
@@ -28,15 +40,19 @@ s { text-decoration:line-through; }
 hr {
   border: none;                        /* Remove default border. */
   text-align: center;                  /* Centre the characters. */
+  padding: 1rem;
 }
 
 hr::after {
   /* content: "🌞 🌜"; */
   /* content: "☙ ❧"; */
-  content: "❦";
+  /* content: "❦"; */
   display: block;
-  /* opacity: 0.9; */
-  line-height: 1;
+  content: url('/img/sep.png');
+  /* left: 50%; */
+  /* position: absolute; */
+  /* transform: translateY(-50%) translateX(-50%); */
+  /* Controls the whitespace around the symbol */
 }
 
 h1 {
