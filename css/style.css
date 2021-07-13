@@ -24,6 +24,8 @@
 #apresentacao:after {
   display: block;
   content: url('/img/sep.png');
+  height: 25px;
+  width: 25px;
   text-align: center;
 }
 
